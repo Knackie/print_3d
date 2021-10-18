@@ -8,3 +8,7 @@ https://www.myminifactory.com/fr/object/3d-print-nine-tailed-demon-fox-
 **Thresh 
 
 https://www.myminifactory.com/fr/object/3d-print-nine-tailed-demon-fox-85378
+
+**Teemo
+
+https://www.myminifactory.com/fr/object/3d-print-teemo-classic-52765
