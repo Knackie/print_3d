@@ -16,3 +16,6 @@ https://www.myminifactory.com/fr/object/3d-print-teemo-classic-52765
 
 **Plane
 https://cults3d.com/en/3d-model/tool/rafale_c_dassault-rostchup228
+
+**Laura
+https://cults3d.com/en/3d-model/art/stegosaurus-easy-print-no-support
