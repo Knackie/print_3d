@@ -19,3 +19,6 @@ https://cults3d.com/en/3d-model/tool/rafale_c_dassault-rostchup228
 
 **Laura
 https://cults3d.com/en/3d-model/art/stegosaurus-easy-print-no-support
+
+**Charlie
+https://www.thingiverse.com/thing:2500469
