@@ -22,3 +22,6 @@ https://cults3d.com/en/3d-model/art/stegosaurus-easy-print-no-support
 
 **Charlie**  
 https://www.thingiverse.com/thing:2500469
+
+**plane**
+https://www.myminifactory.com/object/3d-print-ww2-aircraft-carrier-158067
