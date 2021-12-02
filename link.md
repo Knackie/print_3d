@@ -30,4 +30,6 @@ https://cults3d.com/en/3d-model/art/stegosaurus-easy-print-no-support
 **Charlie**  
 https://www.thingiverse.com/thing:2500469
 
+** chess 2D/3D
 
+https://www.patreon.com/posts/59047159
