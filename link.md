@@ -24,16 +24,22 @@ https://www.cgtrader.com/3d-print-models/miniatures/vehicles/c-17-globemaster-pl
 https://www.thingiverse.com/thing:3476952
 https://nasa3d.arc.nasa.gov/search/space%20shuttle/model
 
+
+** dragon **
+
+https://cults3d.com/fr/mod%C3%A8le-3d/jeu/long-dragon-flexi
+
+
 **Laura**  
 https://cults3d.com/en/3d-model/art/stegosaurus-easy-print-no-support
 
 **Charlie**  
 https://www.thingiverse.com/thing:2500469
 
-** chess 2D/3D
+** chess 2D/3D **
 
 https://www.patreon.com/posts/59047159
 
-** Yoshi 
+** Yoshi  **
 
 https://cults3d.com/en/3d-model/game/yoshi-geremi15
