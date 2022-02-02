@@ -33,3 +33,7 @@ https://www.thingiverse.com/thing:2500469
 ** chess 2D/3D
 
 https://www.patreon.com/posts/59047159
+
+** Yoshi 
+
+https://cults3d.com/en/3d-model/game/yoshi-geremi15
