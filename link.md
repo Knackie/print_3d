@@ -2,6 +2,7 @@
 https://www.myminifactory.com/fr/object/3d-print-hollow-chess-398
 https://www.myminifactory.com/fr/object/3d-print-faceted-chess-set-66362
 https://www.myminifactory.com/fr/object/3d-print-chess-set-designed-in-vr-64861
+https://www.thingiverse.com/thing:2369887/files
 
 **Fox**  
 https://www.myminifactory.com/fr/object/3d-print-nine-tailed-demon-fox-85378
