@@ -24,7 +24,7 @@ https://cults3d.com/en/3d-model/various/sofia-the-stratospheric-observatory-for-
 https://www.cgtrader.com/3d-print-models/miniatures/vehicles/c-17-globemaster-plane
 https://www.thingiverse.com/thing:3476952
 https://nasa3d.arc.nasa.gov/search/space%20shuttle/model
-
+https://cults3d.com/en/3d-model/gadget/print-in-place-and-articulated-jet-fighter-with-stand
 
 ** dragon **
 
