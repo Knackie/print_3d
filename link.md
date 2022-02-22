@@ -7,6 +7,8 @@ https://www.thingiverse.com/thing:2369887/files
 **Fox**  
 https://www.myminifactory.com/fr/object/3d-print-nine-tailed-demon-fox-85378
 
+**League of Caca**
+https://cults3d.com/en/3d-model/game/psyops-kayle-3d-model
 **Thresh**
 
 https://www.myminifactory.com/fr/object/3d-print-league-of-legends-thresh-3830
