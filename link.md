@@ -9,6 +9,7 @@ https://www.myminifactory.com/fr/object/3d-print-nine-tailed-demon-fox-85378
 
 **League of Caca**
 https://cults3d.com/en/3d-model/game/psyops-kayle-3d-model
+https://cults3d.com/en/3d-model/game/rift-herald
 
 **Thresh**
 
