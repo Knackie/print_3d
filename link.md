@@ -15,6 +15,9 @@ https://www.myminifactory.com/fr/object/3d-print-league-of-legends-thresh-3830
 
 https://www.myminifactory.com/fr/object/3d-print-teemo-classic-52765
 
+**Pyke**
+https://cults3d.com/en/3d-model/game/sand-wraith-pyke
+
 **Plane** 
 https://www.myminifactory.com/object/3d-print-ww2-aircraft-carrier-158067
 https://cults3d.com/en/3d-model/tool/rafale_c_dassault-rostchup228
@@ -28,7 +31,7 @@ https://cults3d.com/en/3d-model/gadget/print-in-place-and-articulated-jet-fighte
 https://cults3d.com/en/3d-model/gadget/print-in-place-and-articulated-f14-with-camo-idex
 
 ** dragon **
-
+https://cults3d.com/en/3d-model/game/elder-dragon-league-of-legends-3d-model
 https://cults3d.com/fr/mod%C3%A8le-3d/jeu/long-dragon-flexi
 https://cults3d.com/en/3d-model/game/articulated-dragon-01-robot
 
